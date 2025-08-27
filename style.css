@@ -17,10 +17,10 @@ footer{
         font-size: 0.7rem;
         margin-top: 0.5rem;
     }
-    : :root{
+    :root{
         --text-color:#bf77f0;
-        --card-front-color:#41005f;
-        --card-back-color:#69367e;
+        --card-front-color:#2b003f;
+        --card-back-color:#a04191;
     }
     #container{
         display: flex;
