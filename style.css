@@ -60,7 +60,7 @@ footer{
     .cartao:hover .cartao-conteudo{
         transform: rotateY(180deg);
     }
-    .cartao-conteudo-pergunta
+    .cartao-conteudo-pergunta,
     .cartao-conteudo-resposta{
         backface-visibility: hidden;
         position:absolute;
@@ -71,7 +71,7 @@ footer{
         transform: rotateY(180deg);
 
     }
-    .cartao-conteudop{
+    .cartao-conteudo p{
         margin-top: 1rem;
         padding: 2rem;
     }
